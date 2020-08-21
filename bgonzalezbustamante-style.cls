@@ -179,6 +179,7 @@
 \newcommand*{\sectionstyle}[1]{{\fontsize{16pt}{1em}\bodyfont\bfseries\color{text}\@sectioncolor #1}}
 \newcommand*{\subsectionstyle}[1]{{\fontsize{12pt}{1em}\bodyfont\scshape\textcolor{text}{#1}}}
 \newcommand*{\paragraphstyle}{\fontsize{10pt}{1em}\bodyfontlight\upshape\color{text}}
+\newcommand*{\publicationstyle}{\fontsize{10pt}{1em}\bodyfont\color{graytext}}
 
 %% Entries
 \newcommand*{\entrytitlestyle}[1]{{\fontsize{10pt}{1em}\bodyfont\bfseries\color{darktext} #1}}
@@ -469,6 +470,15 @@
   \vspace{\acvSectionContentTopSkip}
   %% \vspace{-3mm}
   \paragraphstyle
+}{%
+  \par
+  \vspace{2mm}
+}
+
+%% Publications Style
+\newenvironment{publications}{%
+  \vspace{\acvSectionContentTopSkip}
+  \publicationstyle
 }{%
   \par
   \vspace{2mm}
