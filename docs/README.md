@@ -11,3 +11,6 @@
 ### Spanish PDF version 
 - Typed in XeLaTeX with hyperlinks
 - Look at my [GitHub repository](https://github.com/bgonzalezbustamante/CV-XeLaTeX/blob/master/spanish/CV-Gonzalez-Bustamante.pdf)
+
+### Full list of conference presentations
+- Forthcoming.
