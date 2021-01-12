@@ -4,7 +4,7 @@
 
 ### English PDF version 
 - Typed in XeLaTeX with hyperlinks
-Look at my website [bgonzalezbustamante.com](https://bgonzalezbustamante.com) 
+- Look at my website [bgonzalezbustamante.com](https://bgonzalezbustamante.com) 
 - Look at my [GitHub repository](https://github.com/bgonzalezbustamante/CV-XeLaTeX/blob/master/CV-Gonzalez-Bustamante.pdf)
 
 ### Spanish PDF version 
