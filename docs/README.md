@@ -5,7 +5,7 @@
 ### English PDF version 
 - Typed in XeLaTeX with hyperlinks
 - It is available on my website [bgonzalezbustamante.com](https://bgonzalezbustamante.com) 
-- Also, on my [GitHub repository](https://github.com/bgonzalezbustamante/CV-XeLaTeX/blob/master/CV-Gonzalez-Bustamante.pdf)
+- Also, it is on my [GitHub repository](https://github.com/bgonzalezbustamante/CV-XeLaTeX/blob/master/CV-Gonzalez-Bustamante.pdf)
 
 ### Spanish PDF version 
 - Typed in XeLaTeX with hyperlinks
