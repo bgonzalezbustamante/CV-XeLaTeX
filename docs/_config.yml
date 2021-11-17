@@ -1,5 +1,6 @@
 title: "CV-XeLaTeX"
 description: "Bastián González-Bustamante"
+logo: [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://github.com/bgonzalezbustamante/CV-XeLaTeX/blob/master/STATUS.md)
 show_downloads: false
 theme: jekyll-theme-minimal
 encoding: UTF-8
