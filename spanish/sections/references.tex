@@ -14,7 +14,7 @@
 %% https://github.com/carlacisternasg/CV-LuaLaTeX
 
 %% Creative Commons Attribution 4.0 International License
-%% https://github.com/bgonzalezbustamante/CV-XeLaTeX/blob/master/LICENSE.txt
+%% https://github.com/bgonzalezbustamante/CV-XeLaTeX/blob/master/LICENSE.md
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
