@@ -4,12 +4,12 @@
 
 ### English PDF version 
 - Typed in XeLaTeX with hyperlinks
-- It is available on my website [bgonzalezbustamante.com](https://bgonzalezbustamante.com) 
-- Also, it is on my [GitHub repository](https://github.com/bgonzalezbustamante/CV-XeLaTeX/blob/master/CV-Gonzalez-Bustamante.pdf)
+- Available on my website [bgonzalezbustamante.com](https://bgonzalezbustamante.com) 
+- Also on my [GitHub repository](https://github.com/bgonzalezbustamante/CV-XeLaTeX/blob/master/CV-Gonzalez-Bustamante.pdf)
 
 ### Spanish PDF version 
 - Typed in XeLaTeX with hyperlinks
-- It is available on my [GitHub repository](https://github.com/bgonzalezbustamante/CV-XeLaTeX/blob/master/spanish/CV-Gonzalez-Bustamante.pdf)
+- Available on my [GitHub repository](https://github.com/bgonzalezbustamante/CV-XeLaTeX/blob/master/spanish/CV-Gonzalez-Bustamante.pdf)
 
 ### Full list of conference presentations
-- It is available on my [GitHub repository](https://github.com/bgonzalezbustamante/CV-XeLaTeX/blob/master/Conferences-Gonzalez-Bustamante.pdf)
+- Available on my [GitHub repository](https://github.com/bgonzalezbustamante/CV-XeLaTeX/blob/master/Conferences-Gonzalez-Bustamante.pdf)
