@@ -4,17 +4,22 @@
 
 ## CV Versions
 
-### English PDF version 
+### English PDF Version 
 - Typed in XeLaTeX with hyperlinks
 - Available on my website [bgonzalezbustamante.com](https://bgonzalezbustamante.com) 
 - Also on my [GitHub repository](https://github.com/bgonzalezbustamante/CV-XeLaTeX/blob/master/CV-Gonzalez-Bustamante.pdf)
 
-### Spanish PDF version 
+### Spanish PDF Version 
 - Typed in XeLaTeX with hyperlinks
 - Available on my [GitHub repository](https://github.com/bgonzalezbustamante/CV-XeLaTeX/blob/master/spanish/CV-Gonzalez-Bustamante.pdf)
 
-### Full list of conference presentations
+## Conference and Seminar Presentations
+
+### Full List of Presentations
 - Available on my [GitHub repository](https://github.com/bgonzalezbustamante/CV-XeLaTeX/blob/master/Conferences-Gonzalez-Bustamante.pdf)
+
+### Selection of Recent Public Presentations
+- Available on this [GitHub repository](https://bgonzalezbustamante.github.io/Public-Presentations/)
 
 ### About Me
 
