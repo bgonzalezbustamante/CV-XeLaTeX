@@ -16,9 +16,11 @@
 ## Conference and Seminar Presentations
 
 ### Full List of Presentations
+- Typed in XeLaTeX with hyperlinks
 - Available on my [CV repository](https://github.com/bgonzalezbustamante/CV-XeLaTeX/blob/master/Conferences-Gonzalez-Bustamante.pdf)
 
 ### Selection of Recent Public Presentations
+- GitHub Page with hyperlinks
 - Available on my [Public-Presentations repository](https://bgonzalezbustamante.github.io/Public-Presentations/)
 
 ### About Me
