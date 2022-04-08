@@ -13,7 +13,7 @@
 %% Carla Cisternas' CV-LuaLaTeX Template
 %% https://github.com/carlacisternasg/CV-LuaLaTeX
 
-%% Creative Commons Attribution 4.0 International License
+%% LaTeX Project Public License v1.3c
 %% https://github.com/bgonzalezbustamante/CV-XeLaTeX/blob/master/LICENSE.md
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
