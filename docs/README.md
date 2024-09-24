@@ -1,11 +1,11 @@
 # Curriculum Vitae
 
-[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://raw.githubusercontent.com/bgonzalezbustamante/CV-XeLaTeX/master/badges/active.svg)](https://github.com/bgonzalezbustamante/CV-XeLaTeX/blob/master/STATUS.md) [![Update](https://raw.githubusercontent.com/bgonzalezbustamante/CV-XeLaTeX/master/badges/nov_2023.svg)](https://github.com/bgonzalezbustamante/CV-XeLaTeX/blob/master/CV-Gonzalez-Bustamante.pdf) [![ORCID](https://raw.githubusercontent.com/bgonzalezbustamante/CV-XeLaTeX/master/badges/orcid_bgb.svg)](http://orcid.org/0000-0003-1510-6820) [![License](https://raw.githubusercontent.com/bgonzalezbustamante/CV-XeLaTeX/master/badges/lppl.svg)](https://github.com/bgonzalezbustamante/CV-XeLaTeX/blob/master/LICENSE.md) [![Latex](https://raw.githubusercontent.com/bgonzalezbustamante/CV-XeLaTeX/master/badges/latex.svg)](https://www.latex-project.org/)
+[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://raw.githubusercontent.com/bgonzalezbustamante/CV-XeLaTeX/master/badges/active.svg)](https://github.com/bgonzalezbustamante/CV-XeLaTeX/blob/master/STATUS.md) [![ORCID](https://raw.githubusercontent.com/bgonzalezbustamante/CV-XeLaTeX/master/badges/orcid_bgb.svg)](http://orcid.org/0000-0003-1510-6820) [![License](https://raw.githubusercontent.com/bgonzalezbustamante/CV-XeLaTeX/master/badges/lppl.svg)](https://github.com/bgonzalezbustamante/CV-XeLaTeX/blob/master/LICENSE.md) [![Latex](https://raw.githubusercontent.com/bgonzalezbustamante/CV-XeLaTeX/master/badges/latex.svg)](https://www.latex-project.org/)
 
 ## Updated Curriculum Vitae
 
-- [Updated CV in English](https://github.com/bgonzalezbustamante/CV-XeLaTeX/blob/master/CV-Gonzalez-Bustamante.pdf)
-- [Updated CV in Spanish](https://github.com/bgonzalezbustamante/CV-XeLaTeX/blob/master/spanish/CV-Gonzalez-Bustamante.pdf)
+- [CV in English](https://github.com/bgonzalezbustamante/CV-XeLaTeX/blob/master/CV-Gonzalez-Bustamante.pdf)
+- [CV in Spanish](https://github.com/bgonzalezbustamante/CV-XeLaTeX/blob/master/spanish/CV-Gonzalez-Bustamante.pdf)
 
 ## Conference and Seminar Presentations
 
@@ -14,6 +14,6 @@
 
 ### About Me
 
-I am completing my DPhil (PhD) dissertation in the [Department of Politics and International Relations](https://www.politics.ox.ac.uk/) and [St Hilda's College](https://www.sthildas.ox.ac.uk/) at the [University of Oxford](http://www.ox.ac.uk/), United Kingdom.
+I am a post-doctoral researcher in Computational Social Science at the Institute of Public Administration at the [Faculty of Governance and Global Affairs at Leiden University, Netherlands](https://www.universiteitleiden.nl/en/governance-and-global-affairs). I hold a [DPhil (PhD) in Politics from the University of Oxford, United Kingdom](https://www.politics.ox.ac.uk/). 
 
 Further details on my website [bgonzalezbustamante.com](https://bgonzalezbustamante.com/).
