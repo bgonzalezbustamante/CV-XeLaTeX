@@ -4,16 +4,16 @@
 
 ## Updated Curriculum Vitae
 
-- [CV in English](https://github.com/bgonzalezbustamante/CV-XeLaTeX/blob/master/CV-Gonzalez-Bustamante.pdf)
-- [CV in Spanish](https://github.com/bgonzalezbustamante/CV-XeLaTeX/blob/master/spanish/CV-Gonzalez-Bustamante.pdf)
+- [CV in English](https://github.com/bgonzalezbustamante/CV-XeLaTeX/blob/master/CV-Gonzalez-Bustamante.pdf) (updated September 2024)
+- [CV in Spanish](https://github.com/bgonzalezbustamante/CV-XeLaTeX/blob/master/spanish/CV-Gonzalez-Bustamante.pdf) (updated November 2023)
 
 ## Conference and Seminar Presentations
 
-- [Complete list of presentations](https://github.com/bgonzalezbustamante/CV-XeLaTeX/blob/master/Conferences-Gonzalez-Bustamante.pdf)
+- [Complete list of presentations](https://github.com/bgonzalezbustamante/CV-XeLaTeX/blob/master/Conferences-Gonzalez-Bustamante.pdf) (updated September 2023)
 - [Selection of recent public presentations on GitHub](https://bgonzalezbustamante.github.io/Public-Presentations/)
 
 ### About Me
 
-I am a post-doctoral researcher in Computational Social Science at the Institute of Public Administration at the [Faculty of Governance and Global Affairs at Leiden University, Netherlands](https://www.universiteitleiden.nl/en/governance-and-global-affairs). I hold a [DPhil (PhD) in Politics from the University of Oxford, United Kingdom](https://www.politics.ox.ac.uk/). 
+I am a post-doctoral researcher in Computational Social Science at the Institute of Public Administration at the [Faculty of Governance and Global Affairs at Leiden University](https://www.universiteitleiden.nl/en/governance-and-global-affairs), Netherlands. I hold a [DPhil (PhD) in Politics from the University of Oxford](https://www.politics.ox.ac.uk/), United Kingdom. 
 
 Further details on my website [bgonzalezbustamante.com](https://bgonzalezbustamante.com/).
