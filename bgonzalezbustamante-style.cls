@@ -247,6 +247,7 @@
 \newcommand*{\position}[1]{\def\@position{#1}}
 %% \newcommand*{\mobile}[1]{\def\@mobile{#1}}
 \newcommand*{\email}[1]{\def\@email{#1}}
+\newcommand*{\secondemail}[1]{\def\@secondemail{#1}}
 \newcommand*{\homepage}[1]{\def\@homepage{#1}}
 \newcommand*{\landingpage}[1]{\def\@landingpage{#1}}
 \newcommand*{\github}[1]{\def\@github{#1}}
@@ -364,6 +365,12 @@
         {%
           \ifbool{isstart}{\setbool{isstart}{false}}{\acvHeaderSocialSep}%
           \href{mailto:\@email}{{\small {\textcolor{oxfordblue}{\faEnvelope}}}\acvHeaderIconSep{\textcolor{blue}{\@email}}}%
+        }%     
+      \ifthenelse{\isundefined{\@secondemail}}%
+        {}%
+        {%
+          \ifbool{isstart}{\setbool{isstart}{false}}{\acvHeaderSocialSep}%
+          \href{mailto:\@secondemail}{{\small {\textcolor{oxfordblue}{\faEnvelope}}}\acvHeaderIconSep{\textcolor{blue}{\@secondemail}}}%
         }%
       \ifthenelse{\isundefined{\@homepage}}%
         {}%
