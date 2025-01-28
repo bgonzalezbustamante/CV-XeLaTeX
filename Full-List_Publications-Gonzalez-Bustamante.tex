@@ -1,0 +1,120 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%% CV-XeLaTeX in English
+%% Bastián González-Bustamante
+%% University of Oxford
+%% https://github.com/bgonzalezbustamante/CV-XeLaTeX
+
+%% Based on the following repositories:
+%% Awesome CV LaTeX Template for CV/Resume
+%% https://github.com/posquit0/Awesome-CV
+%% Bastián Gozález-Bustamante's CV-LaTeX Template
+%% https://github.com/bgonzalezbustamante/CV-LaTeX
+%% Carla Cisternas' CV-LuaLaTeX Template
+%% https://github.com/carlacisternasg/CV-LuaLaTeX
+
+%% LaTeX Project Public License v1.3c
+%% https://github.com/bgonzalezbustamante/CV-XeLaTeX/blob/master/LICENSE.md
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass[11pt, a4paper]{bgonzalezbustamante-style}
+\usepackage[english]{babel}
+\geometry{left=2.5cm, top=2.0cm, right=2.5cm, bottom=2.0cm, footskip=.5cm}
+\fontdir[/fonts] %% It's set on style
+\colorlet{awesome}{awesome-concrete}
+%% \definecolor{awesome}{HTML}{CA63A8}
+
+%% \definecolor{darktext}{HTML}{414141}
+%% \definecolor{text}{HTML}{333333}
+%% \definecolor{graytext}{HTML}{5D5D5D}
+%% \definecolor{lighttext}{HTML}{999999}
+
+\setbool{acvSectionColorHighlight}{true}
+
+\renewcommand{\acvHeaderSocialSep}{$\;$$\;$$\;$$\;$}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%% PERSONAL INFORMATION
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%% Available options: circle|rectangle,edge/noedge,left/right
+%% \photo{}
+\name{Bastián}{González-Bustamante}
+\position{Post-Doctoral Researcher in Computational Social Science{\enskip\cdotp\enskip}Leiden University}
+\address{Wijnhaven, Turfmarkt 99, The Hague 2511 DP, Netherlands}
+
+%% \mobile{}
+\email{b.a.gonzalez.bustamante@fgga.leidenuniv.nl}
+%% \homepage{users.ox.ac.uk/~shil5311}
+\landingpage{bgonzalezbustamante.com}
+\github{bgonzalezbustamante}
+%% \twitter{@bastiangb}
+%% \skype{}
+%% \extrainfo{}
+
+%% \quote{}
+
+\newenvironment{benumerate}[1]{
+    \let\oldItem\item
+    \def\item{\addtocounter{enumi}{-2}\oldItem}
+    \begin{enumerate}
+    \setcounter{enumi}{#1}
+    \addtocounter{enumi}{1}
+}{
+    \end{enumerate}
+}
+
+\usepackage{enumitem}
+\setlist[itemize]{leftmargin=*}
+\setlist[enumerate]{leftmargin=*}
+
+\usepackage{lastpage}
+
+\hyphenation{Ba-che-let Soc-Ar-Xiv Exe-cu-ti-ve Ad-mi-nis-tra-tion Effect Scien-ces Ine-qua-li-ties Pre-si-den-tial de-li-ve-red de-mo-cra-cies ga-the-ring con-fe-ren-ce evi-den-ce con-gress Ti-ra-den-tes de-mo-crá-ti-co}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+\makecvheader
+
+\makecvfooter
+  {\today}
+  {Bastián González-Bustamante ~~~·~~~ Full List of Publications}
+  {\thepage\ of \pageref*{LastPage}}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%% SECTIONS
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\vspace{1mm}
+\input{sections/papers.tex}
+\input{sections/editor.tex}
+\input{sections/book-chapters.tex}
+%% \input{sections/working-papers.tex}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%% CLOSING
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%% \vspace{10mm}
+%% \raggedleft
+%% {\footnotesize Typed in {\small X$_{\exists}${\LaTeX}} with hyperlinks.}\\
+%% {\footnotesize This is only the list of conference presentations.}\\
+%% {\footnotesize \textcolor{oxfordblue}{\normalsize \faGithub} \href{https://bgonzalezbustamante.github.io/CV-XeLaTeX/}{\textcolor{blue}{Download the latest version of this list and my updated CV}}.}
+
+\end{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
